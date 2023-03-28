@@ -1,0 +1,8 @@
+{
+  "name": "rn-firebase-template",
+  "version": "0.0.1",
+  "description": "React Native Template with Firebase and Paper",
+  "repository": "https://github.com/bsidelinger912/rn-firebase-template",
+  "author": "Benny Sidelinger <ben.sidelinger@gmail.com>",
+  "license": "MIT"
+}

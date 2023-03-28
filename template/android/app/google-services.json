@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456469817499",
+    "project_id": "chuckanuts-6fd84",
+    "storage_bucket": "chuckanuts-6fd84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456469817499:android:4ee581de0cd6812b4e3e3e",
+        "android_client_info": {
+          "package_name": "com.chuckanuts.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456469817499-ss88phg0omt6b4bl9ccvqs52jsbb32mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chuckanuts.game",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "456469817499-n22c7n7q3uhu36qu0tauqhkp8om7arfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg2HXhzljMlX1HW5_1-ZGx3bv0h7NzCI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456469817499-n22c7n7q3uhu36qu0tauqhkp8om7arfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
